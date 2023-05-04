@@ -1,0 +1,16 @@
+.ContactsList:not(:last-child) {
+  margin-bottom: 15px;
+}
+
+.ContactsInitials {
+  display: inline;
+  margin-right: 15px;
+  text-transform: uppercase;
+  color: rgb(0, 0, 0);
+}
+
+.ContactsButton {
+  display: inline-block;
+  border-radius: 5px;
+  background-color: #e6e5e5;
+}

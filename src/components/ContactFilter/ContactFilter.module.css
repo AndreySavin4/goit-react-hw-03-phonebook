@@ -1,0 +1,9 @@
+.filterLabel {
+  color: #181515;
+  text-shadow: 1px 1px 1px #181515;
+}
+
+.filterInput {
+  display: block;
+  margin-top: 10px;
+}
